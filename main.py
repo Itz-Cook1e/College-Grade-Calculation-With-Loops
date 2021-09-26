@@ -64,6 +64,6 @@ elif 60 < avg_grades <= 70:
 else:
     givenavggrade = "F"
 print()
-print(f'Avarage: {avg_grades} - {givenavggrade}')
+print(f'Average: {avg_grades} - {givenavggrade}')
 
 # Comment with name, date, and assignment name redacted
