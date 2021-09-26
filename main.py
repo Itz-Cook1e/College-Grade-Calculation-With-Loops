@@ -1,5 +1,4 @@
 # Assignment:
-
 # Prompt the user to enter an integer between 3 and 20. This will be the number of grades we will average.
 # Use a while loop to make sure the input is good. I.e., if I enter a letter, float, or integer outside that range, ask me to try again until I enter a good number. Hint: initialize a sentinel value before the loop, and a try and except block inside the loop.)
 # Use a for loop and the randint function to get the number of integers requested. Print out each one, and it's letter grade. Your letter grade function from the last assignment shouldn't have to be modified here.
